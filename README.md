@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me ###
+I am a UK CompSci student looking to document my learning experience, projects and passions. With a background primarily in OOP, Java, C# and Python I have developed a number of high-level programming projects. This includes desktop apps, web apps and console apps, which have been completed with a variety of development methodologies including AGILE, pair-programming and individual projects. I've also studied and completed projects a wider range of topics including database design, AI and security.
+
+### Future Directions: ###
+Recently I've become more interested in embedded systems design, development and security. So I'm shifting my focus to low-level programming languages (C\C++ currently) and computer architecture as well as completing CTFs (primarily pwnable and reverse engineering). I am also interested in clean coding and further improving the readability, efficiency and usability of my code which is, of course, highly beneficial in embedded systems development. To achieve this I will further study data structures and algorithms, and more critically study relevant and widely recognised projects, which I believe will give my projects more value/relevance.
+
+### Motivation: ###
+I've seen and been a part of projects that feel bloated or shallow - relying on existing libraries while adding little value. I believe learning embedded will steer me away from this kind of development. Embedded systems are a bridge between computation and the outside world, they are used in industrial equipment, cars, air traffic control, medical devices. It can be used in humanitarian efforts by providing power-efficient computation in areas with little infrastructure to support bloated consumarist systems. Agriculture, disaster response, space exploration. Embedded systems provide direct, real value and they do it efficiently. 
+Im also motivated by my own passion for the subject. You provide an arrangement of conductors and semi-conductors (perhaps a little crystal) with a power source and a community of similarly passionate individuals and you can look through the eyes of a robot digging through dirt on mars.
